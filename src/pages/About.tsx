@@ -1,6 +1,10 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 
-const About = () => {
+const About = ({setUrl}:any) => {
+  useEffect(()=>{
+    setUrl('/about')
+  },[])
+  
   return (
     <div>About</div>
   )

@@ -1,26 +1,26 @@
 [
     {
-        "id":1,
-        "name":"Book",
+        "id": 1,
+        "name": "Book",
         "price": 10.99,
-        "imgUrl": "/assets/imgs/book.jpg"
+        "imgUrl": "https://educationstaffbank.com/img/resources-and-training/ESB%20-%20school%20teaching%20and%20FE1631099534.jpg"
     },
     {
-        "id":2,
-        "name":"Car",
+        "id": 2,
+        "name": "Car",
         "price": 4500,
-        "imgUrl": "/assets/imgs/car.jpg"
+        "imgUrl": "https://www.towkars.org/wp-content/uploads/2020/09/tax-benefits-800x423.jpg"
     },
     {
-        "id":3,
-        "name":"Banana",
+        "id": 3,
+        "name": "Banana",
         "price": 0.99,
-        "imgUrl": "/assets/imgs/banana.jpg"
+        "imgUrl": "https://images.unsplash.com/photo-1603833665858-e61d17a86224?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80"
     },
     {
-        "id":4,
-        "name":"Computer",
+        "id": 4,
+        "name": "Computer",
         "price": 1499,
-        "imgUrl": "/assets/imgs/computer.jpg"
+        "imgUrl": "https://www.legalcheek.com/wp-content/uploads/2021/05/kari-shea-1SAnrIxw5OY-unsplash.jpg"
     }
 ]
